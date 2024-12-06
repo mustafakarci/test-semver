@@ -2,8 +2,17 @@ apiVersion: v1
 entries:
   semver:
   - apiVersion: v2
+    appVersion: 1.18.0
+    created: "2024-12-06T11:35:58.387741+01:00"
+    description: A Helm chart for Kubernetes
+    digest: d727dc94e3481cd73957e3fe794713c6a89632f2c7af4963da5bfb3c401e3f54
+    name: semver
+    urls:
+    - https://mustafakarci.github.io/test-semver/semver-1.0.0-rc.1.tgz
+    version: 1.0.0-rc.1
+  - apiVersion: v2
     appVersion: 1.17.0
-    created: "2024-12-06T11:23:27.250763+01:00"
+    created: "2024-12-06T11:35:58.387452+01:00"
     description: A Helm chart for Kubernetes
     digest: 6b1bfd2a78925614bbb83cb2d01bfdfc509968526b86d3d3e146f1792fe87916
     name: semver
@@ -12,11 +21,11 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-06T11:23:27.250338+01:00"
+    created: "2024-12-06T11:35:58.386939+01:00"
     description: A Helm chart for Kubernetes
     digest: aa2550b08addb589f1078befb02d74a5ad100861166dfb580fd9f181cf1d2695
     name: semver
     urls:
     - https://mustafakarci.github.io/test-semver/semver-0.2.1.tgz
     version: 0.2.1
-generated: "2024-12-06T11:23:27.249759+01:00"
+generated: "2024-12-06T11:35:58.386138+01:00"
