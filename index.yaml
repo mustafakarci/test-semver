@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2024-12-06T10:26:30.530843+01:00"
+entries:
+  semver:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-06T10:49:54.124288+01:00"
+    description: A Helm chart for Kubernetes
+    digest: aa2550b08addb589f1078befb02d74a5ad100861166dfb580fd9f181cf1d2695
+    name: semver
+    urls:
+    - https://mustafakarci.github.io/test-semver/semver-0.2.1.tgz
+    version: 0.2.1
+generated: "2024-12-06T10:49:54.123202+01:00"
